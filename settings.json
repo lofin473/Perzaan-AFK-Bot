@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "elolloll.aternos.me",
+    "ip": "elolloll.aternos.me:31370",
     "port": 31370,
     "version": "26.3"
   },
