@@ -1,11 +1,11 @@
 {
   "name": "AFK Bot",
-  "bot-account": {
+  "bot-account": {6546
     "username": "arabe1233",
     "password": "",
     "type": "offline"
   },
-  "server": {elolloll.aternos.me
+  "server": {
     "ip": "elolloll.aternos.me:31370",
     "port": 31370,
     "version": "26.3"
